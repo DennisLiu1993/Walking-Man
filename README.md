@@ -11,3 +11,6 @@ The project demonstrates the basic concept of timer and 2d, 3d matrix applicatio
 4.	Open WalkingMan.vcxproj with Visual Studio 2017
 5.  Update if it needs
 6.  Compile and execute
+
+#Extension
+You can modify the content and number of 2d matrixes (g_b%d, NUM_SUBPAGE) so as to make the animation more sophisticated
