@@ -1,6 +1,7 @@
 # Walking-Man Simulation # 小綠人
 Using MFC and its derived class -- CLight -- to simulate the animation of walking man alongside streets.
-The project demonstrates the basic concept of timer and 2d, 3d matrix application.  
+
+The project demonstrates the concept of building C++ class, DC painting, drawing timing, 2D/3D matrix, and Timer. 
 
 # Demo Gif
 ![image](https://github.com/DennisLiu1993/Walking-Man/blob/main/WalkingMan.gif)
