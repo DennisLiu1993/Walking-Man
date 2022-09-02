@@ -3,7 +3,7 @@ Using MFC and its derived class -- CLight -- to simulate the animation of walkin
 The project demonstrates the basic concept of timer and 2d, 3d matrix application.  
 
 # Demo Gif
-
+![image](https://github.com/DennisLiu1993/Walking-Man/blob/main/WalkingMan.gif)
 # Steps to build this project
 1.	Download Visual Studio 2017 or newer versions
 2.	Check on the option of "x86 and x64 version of C++ MFC"
